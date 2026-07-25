@@ -1,0 +1,11 @@
+{
+    "album1": {
+        "type": "local",
+        "path": "/home/pi/nfc-player/music/album1.mp3"
+    },
+
+    "album2": {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=xxxxxxxx"
+    }
+}
